@@ -316,6 +316,9 @@ ul li #plans {
 
 }
 @media (min-width: 320px) and (max-width: 480px){
+    html {
+        overflow-x: hidden;
+    }
     body {
         width: 100%;
     }
